@@ -1,6 +1,7 @@
-[# azure-ai-102
-May 2025
-](https://exampro.co/ai-102
+# azure-ai-102
+
+https://exampro.co/ai-102
+
 Code samples - https://github.com/ExamProCo/Azure-Examples
 
 Py code executed using AI ML studio - JupyterNotebook, with min compute allocation
